@@ -1,0 +1,14 @@
+id;tahun_terbit;judul_buku;pengarang;jenis_buku;penerbit;creation_date;image;update_at
+80;2010;"Dummy 4";Dummy;Umum;"Dummy ";"2021-02-18 21:22:56";"602e78564241f-admin server.jpg";"0000-00-00 00:00:00"
+79;2022;"Dummy Buku";shl;Umum;"BBN Media";"2021-02-18 19:45:34";;
+70;tes;"Bahasa Inggris 22";"Lukman Hakim";Umum;tes;"2021-02-16 23:48:33";;"0000-00-00 00:00:00"
+49;2019;Akuntansi;Suprihatin;Umum;"BBN Books";"2021-02-14 09:59:21";602bc9364eea9-akuntansi.jpg;"2021-02-16 20:31:34"
+48;2020;Ekonomi;Haryadi;Umum;"Ardi Media";"2021-02-14 09:59:01";602bc9838ea2c-ekonomi.jpg;"2021-02-16 20:32:51"
+47;2018;"Bahasa Inggris";"Lukman Hakim";Bahasa;BBN;"2021-02-13 14:35:24";602bc9b4ae91c-english.jpg;"2021-02-16 20:33:40"
+45;2015;"Jaringan Komputer";Hidayat;Umum;"BBN Media";"2021-02-13 14:05:27";602bca130948d-jaringan.jpg;"2021-02-16 20:35:15"
+44;2016;"Pemrograman Dasar";"Adi Rahman";Pemrograman;"Ava Meddia";"2021-02-13 10:16:27";"602bcab1a28e8-Pemrograman dasar.jpg";"2021-02-16 20:37:53"
+25;2015;"Pemrograman PHP";Sarwandi;Pemrograman;"BBN Media";"2021-02-13 09:49:08";602bcb5554320-Php.jpg;"2021-02-16 20:40:37"
+23;2017;"Bahasa Arab";"Ahmad Hanafi";Bahasa;"BBN Books";"2021-02-13 09:49:05";"602bcafbdbb28-Bahasa Arab.jpg";"2021-02-16 20:39:07"
+17;2016;"Administrasi Server";Hartono;Server;"BBN Books";"2021-02-13 09:49:04";"602bcb9e0907d-admin server.jpg";"2021-02-16 20:41:50"
+12;2019;"Database MySql";"Budi Abdul Hadi";Pemrograman;"BBN Books";"2021-01-19 07:48:48";"602bcbf945150-Database mysql.jpg";"2021-02-16 20:43:21"
+11;2016;"Debian Server";"M Rahmad";Server;"BBN Books";"2021-01-19 07:48:47";602bcc4b58027-debian.png;"2021-02-16 20:44:43"
